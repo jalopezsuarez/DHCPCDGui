@@ -1,3 +1,0 @@
-DHCPCD Config
-
-IPConfig
